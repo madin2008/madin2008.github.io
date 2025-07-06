@@ -39,7 +39,7 @@
     <p>Kami menyediakan pendidikan agama Islam yang kuat, menyeluruh, dan penuh kasih sayang.</p>
     
     <h3>Hubungi Kami</h3>
-    <p>Email: <a href="mailto:info@madinsyafaatutthulab.sch.id">info@madinsyafaatutthulab.sch.id</a></p>
+    <p>Email: <a href="madinsyafaatutthulab@gmail.com">madinsyafaatutthulab@gmail.com</a></p>
   </main>
 
   <footer>
